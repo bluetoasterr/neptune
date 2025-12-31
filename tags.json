@@ -1,0 +1,14 @@
+{
+  "epiccsolar": {
+    "tags": [
+      { "text": "PRO", "color": "rgb(255, 215, 0)" },
+      { "text": "ADMIN", "color": "rgb(255, 0, 0)" }
+    ]
+  },
+  "epslipstickguy": {
+    "tags": [
+      { "text": "RIZZLER", "color": "rgb(255, 215, 0)" },
+      { "text": "SIGMAGOD..", "color": "rgb(255, 0, 255)" }
+    ]
+  }
+}
