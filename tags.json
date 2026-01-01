@@ -13,7 +13,7 @@
   },
   "PlaceRebuliderr": {
     "tags": [
-      { "text": "THE", "color": "rgb(8, 44, 102)" }
+      { "text": "THE", "color": "rgb(8, 44, 102)" },
       { "text": "EMPEROR", "color": "rgb(0, 0, 0)" }
     ]
   },
@@ -32,7 +32,12 @@
   "Onyx_s7": {
     "tags": [
       { "text": "MEGA SKID", "color": "rgb(128, 0, 128)" },
-      { "text": "IM GAY", "color": "rgb(0, 0, 0)" }
+      { "text": "im gay...", "color": "rgb(0, 0, 0)" }
+    ]
+  },
+  "Unbanholdaccount2": {
+    "tags": [
+      { "text": "ULTRA MEGA SKID", "color": "rgb(128, 0, 128)" }
     ]
   }
 }
