@@ -186,5 +186,11 @@
   "9978502256": {
     "reason": "Tool spam / abuse",
     "expiresAt": 0
+  },
+  "8899300398": {
+    "reason": "Logger Detected (Logger.wtf)",
+    "expiresAt": 0,
+    "by": "epiccsolar",
+    "updatedAt": 1767502888
   }
 }
