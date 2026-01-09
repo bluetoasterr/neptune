@@ -18,7 +18,7 @@
     "expiresAt": 0
   },
   "534337115": {
-    "reason": "Snowy (tried to put your fetishes onto your bf never join my game again.)",
+    "reason": "Harassment / abuse",
     "expiresAt": 0,
     "by": "epiccsolar",
     "updatedAt": 1767478052
@@ -44,7 +44,7 @@
     "expiresAt": 0
   },
   "2702322726": {
-    "reason": "VEXCO AUTOMATIC BAN (ALT OF WRERYT2)",
+    "reason": "Automatic ban (alt of WRERYT2)",
     "expiresAt": 0,
     "by": "epiccsolar",
     "updatedAt": 1767494379
@@ -58,7 +58,7 @@
     "expiresAt": 0
   },
   "3170996933": {
-    "reason": "i would of made this a perm but im trying not to",
+    "reason": "Temporary ban",
     "expiresAt": 1771798086,
     "by": "epiccsolar",
     "updatedAt": 1767478086
@@ -188,21 +188,87 @@
     "expiresAt": 0
   },
   "8899300398": {
-    "reason": "Logger Detected (Logger.wtf)",
+    "reason": "Logger detected",
     "expiresAt": 0,
     "by": "epiccsolar",
     "updatedAt": 1767502888
   },
   "7244362139": {
-    "reason": "loading nsfw",
+    "reason": "NSFW behavior",
     "expiresAt": 0,
     "by": "epiccsolar",
     "updatedAt": 1767518531
   },
   "8211610713": {
-    "reason": "suspected of being a bot",
+    "reason": "Suspected botting",
     "expiresAt": 0,
     "by": "epiccsolar",
     "updatedAt": 1767575158
-  }
+  },
+
+  "17": { "reason": "Testing / abuse", "expiresAt": 0 },
+  "811744": { "reason": "Server destruction", "expiresAt": 0 },
+  "1638397": { "reason": "Alt abuse", "expiresAt": 0 },
+  "12831824": { "reason": "Server destruction", "expiresAt": 0 },
+  "13715333": { "reason": "Server destruction", "expiresAt": 0 },
+  "54735922": { "reason": "Harassment / abuse", "expiresAt": 0 },
+  "105008477": { "reason": "Server destruction", "expiresAt": 0 },
+  "115803426": { "reason": "Server destruction", "expiresAt": 0 },
+  "367339102": { "reason": "NSFW behavior", "expiresAt": 0 },
+  "392898743": { "reason": "Malicious links", "expiresAt": 0 },
+  "660719273": { "reason": "Admin abuse", "expiresAt": 0 },
+  "680818749": { "reason": "Server destruction", "expiresAt": 0 },
+  "781984681": { "reason": "Disruptive behavior", "expiresAt": 0 },
+  "839098933": { "reason": "Disruptive behavior", "expiresAt": 0 },
+  "840927520": { "reason": "Alt account", "expiresAt": 0 },
+  "894746510": { "reason": "Server destruction", "expiresAt": 0 },
+  "929968705": { "reason": "Skid GUI usage", "expiresAt": 0 },
+  "1067865860": { "reason": "Disruptive behavior", "expiresAt": 0 },
+  "1083030325": { "reason": "Inappropriate behavior", "expiresAt": 0 },
+  "1146641920": { "reason": "Admin abuse", "expiresAt": 0 },
+  "1195840300": { "reason": "Harassment", "expiresAt": 0 },
+  "1247393717": { "reason": "Harassment", "expiresAt": 0 },
+  "1258763415": { "reason": "Skid GUI usage", "expiresAt": 0 },
+  "1261547391": { "reason": "Admin abuse", "expiresAt": 0 },
+  "1303191891": { "reason": "Mass GUI spam", "expiresAt": 0 },
+  "1327095894": { "reason": "Harassment / manipulation", "expiresAt": 0 },
+  "1487388424": { "reason": "Skid GUI usage", "expiresAt": 0 },
+  "1491919807": { "reason": "Harassment", "expiresAt": 0 },
+  "1516306052": { "reason": "Skid GUI usage", "expiresAt": 0 },
+  "1527547779": { "reason": "Disruptive behavior", "expiresAt": 0 },
+  "1658875027": { "reason": "Alt account", "expiresAt": 0 },
+  "1710904152": { "reason": "Appeal required", "expiresAt": 0 },
+  "1716098007": { "reason": "Admin abuse", "expiresAt": 0 },
+  "1958758606": { "reason": "NSFW behavior", "expiresAt": 0 },
+  "2050376933": { "reason": "Server destruction", "expiresAt": 0 },
+  "2250172585": { "reason": "Inappropriate avatar", "expiresAt": 0 },
+  "2294454782": { "reason": "Admin abuse", "expiresAt": 0 },
+  "2343618278": { "reason": "Map abuse", "expiresAt": 0 },
+  "2369373643": { "reason": "Ban evasion attempt", "expiresAt": 0 },
+  "2448654474": { "reason": "Disruptive behavior", "expiresAt": 0 },
+  "2468949020": { "reason": "Harassment", "expiresAt": 0 },
+  "2504032225": { "reason": "Disruptive behavior", "expiresAt": 0 },
+  "2540078307": { "reason": "Admin abuse", "expiresAt": 0 },
+  "2567068883": { "reason": "Condo support", "expiresAt": 0 },
+  "2707535124": { "reason": "Skid GUI usage", "expiresAt": 0 },
+  "2771301344": { "reason": "Skid GUI usage", "expiresAt": 0 },
+  "2780760111": { "reason": "Server destruction", "expiresAt": 0 },
+  "2825206427": { "reason": "Harassment", "expiresAt": 0 },
+  "2849155179": { "reason": "Skid GUI usage", "expiresAt": 0 },
+  "2897992102": { "reason": "Server destruction", "expiresAt": 0 },
+  "3026378695": { "reason": "Condo loader", "expiresAt": 0 },
+  "3052019749": { "reason": "Inappropriate content", "expiresAt": 0 },
+  "3133421885": { "reason": "Admin abuse", "expiresAt": 0 },
+  "3270554075": { "reason": "Severe rule violations", "expiresAt": 0 },
+  "3421906913": { "reason": "Skid GUI usage", "expiresAt": 0 },
+  "3519164132": { "reason": "Admin abuse", "expiresAt": 0 },
+  "3673137505": { "reason": "Admin abuse", "expiresAt": 0 },
+  "3793108815": { "reason": "Performance abuse", "expiresAt": 0 },
+  "3817230477": { "reason": "Condo loading", "expiresAt": 0 },
+  "3884624351": { "reason": "Disruptive behavior", "expiresAt": 0 },
+  "3916725608": { "reason": "Skid GUI usage", "expiresAt": 0 },
+  "3931551576": { "reason": "Server destruction", "expiresAt": 0 },
+  "4063159261": { "reason": "Skid GUI usage", "expiresAt": 0 },
+  "4190877940": { "reason": "Harmful content", "expiresAt": 0 },
+  "4222420715": { "reason": "Kill loop abuse", "expiresAt": 0 }
 }
