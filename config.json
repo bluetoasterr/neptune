@@ -1,0 +1,23 @@
+{
+  "antiRemovalGuis": ["knnnn00ooop", "TUBERSGUI"],
+  "genericKeywords": ["00l", "00p", "00g", "jumpscare", "decal", "particle", "disco", "666", "skybox", "server destroyer", "anti leave", "kidd"],
+  "blacklistedGroups": {
+    "3130279": "c00lkidd",
+    "10877311": "team c00lkidd 4",
+    "32377504": "lalol hub",
+    "14301513": "team k00pkidd",
+    "16212804": "team k00pkidd II",
+    "14459937": "team kaaXsploits",
+    "17220266": "g00byd0lan official",
+    "32055889": "team user1337",
+    "14528904": "1x1x1x1 reborn",
+    "13677725": "team fat",
+    "16305628": "team cy4nkid"
+  },
+  "blacklistedNames": ["tubers", "kidd", "00l", "00p", "00b", "g00by", "d0lan", "lalol", "1x1"],
+  "blacklistedRegions": {
+    "KR": "Korea",
+    "PL": "Poland"
+  },
+  "exceptions": [467281163]
+}
