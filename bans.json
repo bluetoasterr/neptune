@@ -1210,9 +1210,3 @@
     "reason": "Annoyance",
     "username": "edwe13e1we"
   }
-}
-  "3931551576": { "reason": "Server destruction", "expiresAt": 0 },
-  "4063159261": { "reason": "Skid GUI usage", "expiresAt": 0 },
-  "4190877940": { "reason": "Harmful content", "expiresAt": 0 },
-  "4222420715": { "reason": "Kill loop abuse", "expiresAt": 0 }
-}
