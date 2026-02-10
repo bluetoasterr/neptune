@@ -1,9 +1,13 @@
-[
-    "Cooperbigmoney123",
-    "10386180259",
-    "7600260743",
-    "Sskidvc",
-    "10147928828",
-    "9646260341",
-    "8758605603"
-]
+{
+    "bans": [
+        "8682846508"
+    ],
+    "metadata": {
+        "8682846508": {
+            "reason": "bye jkeep alty poopy",
+            "executor": "epiccsolar",
+            "timestamp": 1770751377,
+            "username": "Cainvail6"
+        }
+    }
+}
