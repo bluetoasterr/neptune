@@ -2,7 +2,8 @@
     "bans": [
         "8682846508",
         "8387254593",
-        "10499214228"
+        "10499214228",
+        "10499269601"
     ],
     "metadata": {
         "8682846508": {
@@ -22,6 +23,12 @@
             "executor": "epiccsolar",
             "timestamp": 1770910212,
             "username": "CanYouStopAlreadyy"
+        },
+        "10499269601": {
+            "reason": "AUTOMATED BAN",
+            "executor": "epiccsolar",
+            "timestamp": 1770910358,
+            "username": "IDidntFInished"
         }
     }
 }
