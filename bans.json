@@ -1,6 +1,7 @@
 {
     "bans": [
-        "8682846508"
+        "8682846508",
+        "8387254593"
     ],
     "metadata": {
         "8682846508": {
@@ -8,6 +9,12 @@
             "executor": "epiccsolar",
             "timestamp": 1770751377,
             "username": "Cainvail6"
+        },
+        "8387254593": {
+            "reason": "LOGGING",
+            "executor": "someone",
+            "timestamp": 1770907625,
+            "username": "SOWWO5"
         }
     }
 }
