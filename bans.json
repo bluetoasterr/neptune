@@ -1,7 +1,8 @@
 {
     "bans": [
         "8682846508",
-        "8387254593"
+        "8387254593",
+        "10499214228"
     ],
     "metadata": {
         "8682846508": {
@@ -15,6 +16,12 @@
             "executor": "someone",
             "timestamp": 1770907625,
             "username": "SOWWO5"
+        },
+        "10499214228": {
+            "reason": "bye moth",
+            "executor": "epiccsolar",
+            "timestamp": 1770910212,
+            "username": "CanYouStopAlreadyy"
         }
     }
 }
